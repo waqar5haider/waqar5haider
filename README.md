@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @waqar5haider
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Angular
+- 🌱 I’m Angular/ .Net Core Developer
 - 💞️ I’m looking to collaborate on large projects
 - 📫 How to reach me : waqar5haider@gmail.com
 
