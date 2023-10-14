@@ -7,14 +7,23 @@ Full Stack Developer | .NET Core & Angular Expert | 7 Years of Experience
 About Me:
 
 💼 I have a proven track record in designing and developing a wide array of applications.
+
 🌐 My expertise spans .NET Core, Angular, and database technologies, enabling me to deliver end-to-end solutions.
+
 📈 I've navigated complex projects, including:
+
 🚚 Fleet Management System: Optimizing logistics operations and resource allocation.
+
 ⏰ Attendance Management System: Streamlining attendance tracking and reporting.
+
 💳 Point of Sale System: Simplifying checkout experiences and inventory management.
+
 📆 Meeting Manager: Facilitating efficient meeting scheduling and management.
+
 📌 Task Manager: Enhancing productivity through task organization and tracking.
+
 📊 Extensive Dashboards & MIS: I've handled data-rich dashboards and Management Information Systems.
+
 Technical Expertise:
 
 💻 Languages: C#, JavaScript, SQL
