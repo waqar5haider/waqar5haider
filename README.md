@@ -27,11 +27,17 @@ About Me:
 Technical Expertise:
 
 💻 Languages: C#, JavaScript, SQL
+
 🛠️ Frameworks & Tools: .NET Core, Angular, SQL Server, Entity Framework, Visual Studio Code
+
 📜 Web Technologies: HTML5, CSS3, RESTful APIs, JSON, XML
+
 📡 Web Services: Proficiency in developing web services using ASP.NET Web API
+
 📊 Database Management: Design, optimization, and maintenance of databases
+
 🚀 Agile Methodologies: Experience working in agile development environments
+
 GitHub Projects:
 
 Feel free to explore my GitHub repositories, where you'll find code samples, projects, and contributions related to the technologies I'm passionate about.
